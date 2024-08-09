@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "cypress": "^13.13.2",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "faker": "^6.6.6",
+    "import": "^0.0.6"
+  },
+  "scripts": {
+    "test-terminal": "cypress run --browser chrome --headed"
+  }
+}

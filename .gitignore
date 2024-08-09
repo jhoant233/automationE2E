@@ -1,0 +1,10 @@
+node_modules
+screenshots
+reports
+downloads
+videos
+cypress.env.json
+.idea
+.vscode
+.env
+.DS_Store
