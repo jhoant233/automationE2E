@@ -11,7 +11,7 @@ Node.js (versión 12 o superior)
 Cypress.io (versión 10 o superior)
 
 Instalación:
-1.Clona este repositorio: git clone <URL_DEL_REPOSITORIO>
+1.Clona este repositorio: git clone https://github.com/jhoant233/automationE2E.git
 2.Navega a la carpeta del proyecto
 3.Instala las dependencias con el comando: npm install
 
